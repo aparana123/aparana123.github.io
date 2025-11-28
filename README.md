@@ -1,110 +1,116 @@
-<h1 align="center">✨ Namaste, I'm Aparana Varshney! ✨</h1>
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://i.imgur.com/vyHnZQp.gif" width="800px">
+</p>
 
-<h3 align="center">💻 Full-Stack Developer | 🚀 Tech Explorer | 📚 Lifelong Learner</h3>
+<h1 align="center">✨ Namaste, I'm <span style="color:#ff4ddb;">Aparana Varshney</span> ✨</h1>
 
----
-
-### 🔗 Connect With Me
-📧 **Email:** aparanavarshney@gmail.com  
-🔗 **GitHub:** github.com/aparana123  
-💼 **LinkedIn:** Your LinkedIn Link Here  
+<h3 align="center">💻 Full-Stack Developer | 🚀 Tech Explorer | 🎯 Lifelong Learner</h3>
 
 ---
 
-# 🚀 ZERO to HERO CODE  
-⭐ *Code. Build. Learn. Repeat.* ⭐  
+<!-- BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20With-Aparana-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/github/followers/aparana123?style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=aparna123&style=for-the-badge&color=brightgreen">
+  <img src="https://img.shields.io/badge/Developer-FullStack-orange?style=for-the-badge">
+</p>
 
 ---
 
-# 🧑‍💻 About Me
-Hi! I'm **Aparana Varshney**, a passionate developer who loves building projects, solving problems, and exploring new technologies.
-
-I enjoy creating **web applications**, **modern UIs**, and **clean, efficient backend systems**.
+# 🚀 **ZERO to HERO CODE**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23FF00FF&size=28&center=true&vCenter=true&width=700&lines=Code.+Build.+Learn.+Repeat.;Full+Stack+Developer;Problem+Solver;Tech+Explorer;Welcome+to+my+GitHub!">
+</p>
 
 ---
 
-# 💻 Tech Stack
+# 👩‍💻 **About Me**
+- 🔥 Passionate **Full-Stack Developer**
+- 🧠 Exploring **Java, Python, MySQL, JavaScript**
+- 🎨 Loves **UI/UX Projects**
+- 🚀 Focus: *Clean Code • Smart Solutions • Scalable Apps*
+
+---
+
+# 🛠️ **Tech Stack**
 
 ### 🚀 Programming Languages  
-Java • Python • C • C++ • JavaScript • SQL  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,typescript">
+</p>
 
-### 🌐 Frontend Development  
-HTML • CSS • JavaScript • React • Tailwind CSS  
+### 🌐 Frontend  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap">
+</p>
 
-### 🔙 Backend Development  
-Node.js • Express.js • Spring Boot • Python Flask  
+### 🔙 Backend  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring">
+</p>
 
 ### 🗄️ Databases  
-MySQL • MongoDB  
-
-### ☁️ Cloud & Tools  
-Git • GitHub • VS Code • Postman • Linux • Docker  
-
-### 🎨 Design  
-Figma • Canva  
-
----
-
-# 🔥 Featured Projects
-
-| # | Project | Description | Tech Stack | GitHub |
-|---|---------|-------------|-------------|---------|
-| 1️⃣ | 📚 **Book Issue System** | Manage books using Spring Boot + MySQL | Java, Spring Boot | Repo Link |
-| 2️⃣ | 🧮 **Multiplication Table Generator** | Simple Java App | Java | Repo Link |
-| 3️⃣ | 🎵 **Music App** | Android Flutter music app | Flutter, Dart | Repo Link |
-| 4️⃣ | 🛒 **Amazon UI Clone** | Amazon frontend clone | HTML, CSS, JS | Repo Link |
-| 5️⃣ | 🗃️ **MySQL Notes** | SQL notes & practice files | MySQL | Repo Link |
-
----
-
-# 📚 Notes & Resources
-
-| Topic | Link |
-|------|------|
-| 🤖 AI Notes | Coming Soon |
-| 📊 Excel Notes | Coming Soon |
-| 💻 Computer Fundamentals | Coming Soon |
-| 🧑‍💻 Programming Notes | Coming Soon |
-
----
-
-# 🔥 Core Strengths  
-✔ Clean & Maintainable Code  
-✔ Strong Problem Solving  
-✔ UI + Backend Balanced Skill  
-✔ Fast Learner & Tech Explorer  
-
----
-
-# 🎯 Hobbies & Interests  
-🏋️‍♂️ Fitness  
-🎮 Gaming  
-📱 Making Mini Projects  
-🌍 Open Source  
-
----
-
-# 🏆 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aparna123&show_icons=true&theme=tokyonight" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aparna123&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aparna123&layout=compact&theme=tokyonight" />
+### ☁️ Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker">
 </p>
 
 ---
 
-# 🐍 Contribution Snake  
+# 🔥 **Featured Projects**
+
+| # | Project | Description | Tech | Link |
+|---|---------|-------------|------|------|
+| 1️⃣ | 📚 Book Issue System | Spring Boot + MySQL Web App | Java, Spring Boot | [GitHub](#) |
+| 2️⃣ | 🛒 Amazon Clone | Full UI Clone | HTML, CSS, JS | [GitHub](#) |
+| 3️⃣ | 🎵 Music App | Flutter Android App | Flutter, Dart | [GitHub](#) |
+| 4️⃣ | 📈 MySQL Notes | All SQL Queries + Notes | MySQL | [GitHub](#) |
+
+---
+
+# 📊 **GitHub Stats & Activity**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aparna123&show_icons=true&theme=radical" height="180px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aparna123&theme=radical" height="180px">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aparna123&layout=compact&theme=radical">
+</p>
+
+---
+
+# 🐍 **Contribution Snake**
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-# ✨ Made with 💙 by **Aparana Varshney**
+# 🌟 Achievements Badges  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aparna123&theme=dracula&margin-w=15&margin-h=15">
+</p>
+
+---
+
+# 📱 **Connect With Me**
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=gmail"></a>
+  <a href="https://github.com/aparana123"><img src="https://skillicons.dev/icons?i=github"></a>
+</p>
+
+---
+
+<p align="center">
+  <b>✨ Made with ❤️ by Aparana Varshney ✨</b>
+</p>
+
