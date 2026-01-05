@@ -20,6 +20,49 @@ I enjoy exploring new technologies, writing clean code, and building beautiful U
 
 </div>
 
+
+## 🚀 ZERO to HERO CODE 🔥  
+### **StartTheCode**
+> **Code. Build. Grow. Repeat.** 🚀
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Full-Stack+Java+Developer;Spring+Boot+%2B+React;Cloud+%26+System+Design+Learner;Coding+Mentor+%26+Backend+Explorer" />
+</p>
+
+---
+
+## 🚀 Professional Summary👋
+Hey! I'm **Aparana Varshney**, a PROFESSIONAL **Full-Stack Java Developer** working with  
+**Spring Boot, React & MySQL**.  
+I love building **scalable systems**, exploring **backend architecture**, and mentoring beginners 🚀  
+
+---
+
+## 💻 Tech Stack
+
+### 🧠 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+
+### 🌐 Frontend
+HTML • CSS • JavaScript • React.js • Next.js • Tailwind CSS • Redux
+
+### 🔙 Backend
+Spring Boot • Node.js • Express.js • FastAPI • Django
+
+### 💾 Databases
+MySQL • MongoDB • PostgreSQL • Firebase
+
+### ☁️ Cloud & DevOps
+AWS • Google Cloud • Vercel • Netlify • Docker • Linux
+
+### 🧰 Tools
+Git • GitHub • Postman • VS Code • IntelliJ IDEA • Figma
+
 ---
 
 ## 🚀 My Goals  
