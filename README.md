@@ -1,117 +1,158 @@
-<h1 align="center">नमस्ते 👋, I'm Aparana Varshney</h1>
-<h3 align="center">🔧 Full-Stack Java Developer | ☁️ Cloud & System Design Learner | 🚀 Growth Seeker</h3>
+<!-- HEADER SECTION -->
+<h1 align="center">👋 Hi, I'm <span style="color:#00f7ff">Aparana Varshaney</span></h1>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=social" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Frontend+Developer+%7C+Programmer+%7C+Learner;Turning+Ideas+into+Beautiful+Web+Experiences;Welcome+to+My+GitHub+Universe+💙" />
 </p>
 
 ---
 
-## 🚀 ZERO to HERO CODE 🔥  
-### **StartTheCode**
-> **Code. Build. Grow. Repeat.** 🚀
+<!-- PROFILE BOX -->
+<div align="center" style="border: 2px solid #00f7ff; padding: 25px; border-radius: 12px; box-shadow: 0 0 20px #00f7ff;">
+  
+## 🌟 About Me — Who Am I?
+Hello! I'm **Aparana Varshaney**,  
+a passionate **Frontend Developer, Programmer & Tech Learner** who loves turning imagination into real projects.  
+I enjoy exploring new technologies, writing clean code, and building beautiful UI/UX designs.
 
+✨ *I believe learning never stops.*  
+💙 *Every day I try to improve myself.*
+
+</div>
+
+---
+
+## 🚀 My Goals  
+- Become a **Full Stack Developer**  
+- Master **Java + DSA**  
+- Build powerful **real-world projects**  
+- Learn frameworks like **React, Node.js**  
+- Share knowledge on GitHub regularly  
+
+---
+
+## 🧠 Currently Learning  
+- Java (OOPs + DSA)  
+- Python Programming  
+- MySQL Database  
+- HTML / CSS / JavaScript  
+- Git & GitHub  
+
+---
+
+## 🛠️ Tech Stack & Tools (Detailed)  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Full-Stack+Java+Developer;Spring+Boot+%2B+React;Cloud+%26+System+Design+Learner;Coding+Mentor+%26+Backend+Explorer" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,github,vscode,bootstrap,react,figma,postman,tailwind&theme=light" />
 </p>
 
 ---
 
-## 🚀 About Me 👋
-Hey! I'm **Aparana Varshney**, a passionate **Full-Stack Java Developer** working with  
-**Spring Boot, React & MySQL**.  
-I enjoy building **clean backend systems**, learning **cloud & system design**, and helping students grow 🚀  
-
----
-
-## 💻 Tech Stack
-
-### 🧠 Programming Languages
-C • C++ • Java • Python • JavaScript • TypeScript
-
-### 🌐 Frontend
-HTML • CSS • JavaScript • React.js • Next.js • Tailwind CSS • Redux
-
-### 🔙 Backend
-Spring Boot • Node.js • Express.js • FastAPI • Django
-
-### 💾 Databases
-MySQL • MongoDB • PostgreSQL • Firebase
-
-### ☁️ Cloud & DevOps
-AWS • Google Cloud • Docker • Linux • Vercel • Netlify
-
-### 🧰 Tools
-Git • GitHub • Postman • VS Code • IntelliJ IDEA • Figma
-
----
-
-## 🔥 Featured Projects
-
-| # | Project | Description | Tech |
-|---|--------|------------|------|
-| 1️⃣ | 🎮 ATM Simulator | Banking system using OOP concepts | Java |
-| 2️⃣ | 📚 Book Issue System | Book management web app | Spring Boot, MySQL |
-| 3️⃣ | 🌐 Java-React-MySQL Boilerplate | Full-stack starter template | Java, React |
-| 4️⃣ | 🗃️ MySQL Notes | SQL queries & practice scripts | MySQL |
-| 5️⃣ | 📱 Flutter Learning Apps | Educational mobile apps | Flutter, Dart |
-
----
-
-## ✅ Core Strengths
-✔ Clean & maintainable code  
-✔ Strong backend fundamentals  
-✔ Modular & reusable components  
-✔ Student-friendly explanations  
-
----
-
-## 🎯 Hobbies & Interests
-📚 Teaching & Mentoring  
-🏋️‍♀️ Fitness  
-🌍 Open Source Learning  
-
----
-
-## 📊 GitHub Stats
-
+## 🎨 Cool Coding Vibes  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" style="border-radius: 12px;">
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 📚 My Knowledge Areas (Detailed)
+
+### 💻 **Frontend Development**
+- HTML5 semantic structure  
+- CSS3 animations, flexbox, grid  
+- JavaScript DOM manipulation  
+- Responsive web design  
+- UI/UX basics  
+
+### 🐍 **Python Skills**
+- Loops, conditions  
+- Functions, lists, tuples, dictionary  
+- Pattern programs  
+- Mini projects  
+
+### ☕ **Java Skills**
+- OOP concepts (Inheritance, Polymorphism)  
+- Classes and objects  
+- Constructors, methods  
+- Basic programs  
+
+### 🗄 **Database (MySQL)**
+- DDL, DML commands  
+- Creating tables  
+- Inserting & retrieving data  
+- Joins  
+- Queries practice  
+
+---
+
+## 📈 GitHub Activity & Stats  
 <p align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aparana123&show_icons=true&theme=tokyonight&border_radius=10" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aparana123&theme=tokyonight&border_radius=10" height="170"/>
 </p>
 
 ---
 
-## 📱 Connect With Me
-📧 Email: **YOUR_EMAIL@gmail.com**  
-💼 LinkedIn: **https://linkedin.com/in/YOUR_LINKEDIN_USERNAME**
+## 🔥 Most Used Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aparana123&layout=compact&theme=tokyonight&border_radius=10&langs_count=8"/>
+</p>
 
 ---
 
-### ✨ Developer Mantra
-> **“Consistency beats talent when talent doesn’t stay consistent.”**
+## 🐍 Snake Game — My Contribution Eating Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 📂 Featured Projects (Detailed)
+### 🌐 **Amazon UI Clone**
+- HTML + CSS + JS  
+- Complete responsive design  
+- Sections: navbar, product list, footer  
+
+### 🎬 **Netflix Clone**
+- Trending UI  
+- Hover effects  
+- Clean layout  
+
+### 🐍 **Python Mini Projects**
+- Pattern programs  
+- Loops  
+- Basic logic building  
+
+### 🧩 **Java Notes & OOP Programs**
+- Classes  
+- Objects  
+- Polymorphism  
+- Inheritance  
+
+### 📘 **MySQL Series**
+- Queries  
+- Full PDF series (coming soon)  
+
+---
+
+## 🚀 Special Buttons  
+<p align="center">
+<a href="https://github.com/aparana123">
+  <img src="https://img.shields.io/badge/My%20GitHub%20Profile-000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/My%20Projects-FF007F?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+---
+
+## 💬 Connect With Me  
+📩 *Need help or want to collaborate? I'm always available!*  
+⭐ *Feel free to drop a message.*
 
 ---
 
 <p align="center">
-Made with ❤️ by <b>Aparana Varshney</b>
+  💙 **Thanks for visiting my profile! Keep coding & shining!** 💙
 </p>
