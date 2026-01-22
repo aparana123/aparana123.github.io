@@ -1,5 +1,5 @@
 <!-- HEADER SECTION -->
-<h1 align="center">👋 Hi, I'm <span style="color:#00f7ff">Aparana Varshaney</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#00f7ff">Aparana Varshney</span></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Frontend+Developer+%7C+Programmer+%7C+Learner;Turning+Ideas+into+Beautiful+Web+Experiences;Welcome+to+My+GitHub+Universe+💙" />
@@ -11,7 +11,7 @@
 <div align="center" style="border: 2px solid #00f7ff; padding: 25px; border-radius: 12px; box-shadow: 0 0 20px #00f7ff;">
   
 ## 🌟 About Me — Who Am I?
-Hello! I'm **Aparana Varshaney**,  
+Hello! I'm **Aparana Varshney**,  
 a passionate **Frontend Developer, Programmer & Tech Learner** who loves turning imagination into real projects.  
 I enjoy exploring new technologies, writing clean code, and building beautiful UI/UX designs.
 
